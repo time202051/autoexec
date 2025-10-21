@@ -1,0 +1,13 @@
+{
+  "name": "ol组件库",
+  "version": "1.0.0",
+  "bin": "open.js",
+  "scripts": {
+    "start": "node open.js"
+  },
+  "pkg": {
+    "targets": [
+      "node16-win-x64"
+    ]
+  }
+}
